@@ -1,14 +1,17 @@
 export const BOIL_TYPES = [
   {
     name: 'Na twardo',
-    timeInSeconds: 8.5 * 60,
+    timeInSeconds: 0.1 * 60,
+    communicate: 'na twardo',
   },
   {
     name: 'Półtwardo',
-    timeInSeconds: 6 * 60,
+    timeInSeconds: 0.1 * 60,
+    communicate: 'na półtwardo',
   },
   {
     name: 'Miękko',
-    timeInSeconds: 4 * 60,
+    timeInSeconds: 0.1 * 60,
+    communicate: 'na miękko',
   },
 ];
