@@ -9,8 +9,6 @@ import cockcrow from '../../../assets/cockcrow.mp3';
 
 let timer;
 let localNotification = {};
-const t = new Date();
-t.setSeconds(t.getSeconds() + 10);
 
 class Main extends Component {
   constructor(props) {
