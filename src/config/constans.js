@@ -15,3 +15,11 @@ export const BOIL_TYPES = [
     communicate: 'na miękko',
   },
 ];
+
+export const COLORS = {
+  white: '#EFECCA',
+  blue: '#A9CBB7',
+  yellow: '#F7FF58',
+  orange: '#FF934F',
+  grey: '#5E565A',
+};
